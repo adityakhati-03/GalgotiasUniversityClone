@@ -6,3 +6,4 @@ This is a static clone of Galgotias University official website created for lear
 * HTML
 * CSS
 
+https://adityakhati-03.github.io/GalgotiasUniversityClone/
